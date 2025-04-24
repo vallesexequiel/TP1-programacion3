@@ -15,6 +15,7 @@ nav ul{
 nav ul a {
     display: inline;
     margin-right: 10px;
+    font-weight: 1000;
 }
 
 nav a {
