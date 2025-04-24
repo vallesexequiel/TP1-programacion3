@@ -30,3 +30,30 @@ nav a {
 nav a:hover {
     color: orange;
 }
+
+/* Imagen de perfil */
+.perfil-img {
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+/* Tabla de proyectos */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
