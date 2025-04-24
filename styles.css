@@ -58,7 +58,7 @@ th {
     background-color: #f2f2f2;
 }
 
-/*dandole estilo de nelace al pie de pagina*/
+/*dandole estilo de enlace al pie de pagina*/
 
 footer a {
     color: #ff6600;
@@ -67,4 +67,18 @@ footer a {
 
 footer a:hover {
     color: #0066cc;
+}
+
+/* Selector "elemento, elemento" */
+
+h1{
+    color: black
+}
+h2 {
+    color: grey;
+    font-size: 1.8em;
+}
+p{
+    color: black;
+    font-size: 1em;
 }
