@@ -1,11 +1,32 @@
+/*stilos generales */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
 }
-
+/*encabezados*/
 h1, h2 {
     color: gray;
 }
 
+/*navegaciones*/
+
+nav ul{
+    list-style: none;
+    padding: 0;
+}
+
+nav ul a {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+nav a:hover {
+    color: orange;
+}
