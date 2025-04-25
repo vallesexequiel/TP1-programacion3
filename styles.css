@@ -5,6 +5,14 @@ body {
     padding: 0;
     background-color: #f4f4f4;
 }
+/* class y id*/
+.encabezado{
+    color: gray;
+}
+
+#encabezado2{
+    color: black;
+}
 /*navegaciones*/
 
 nav ul{
